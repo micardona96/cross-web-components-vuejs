@@ -8,6 +8,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "cross-web-components": "^1.0.2",
+    "rxjs": "^7.1.0",
     "vue": "^2.6.11"
   },
   "devDependencies": {
