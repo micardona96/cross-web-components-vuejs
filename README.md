@@ -1,6 +1,4 @@
 # cross-web-components with vuejs
-
-
 ## Project setup
 ```
 npm install
